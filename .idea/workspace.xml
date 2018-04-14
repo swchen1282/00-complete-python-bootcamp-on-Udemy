@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56bea8bb-faa9-4462-8d7d-86a0847e0f5a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" afterPath="$PROJECT_DIR$/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" />
-      <change beforePath="$PROJECT_DIR$/00-Python Object and Data Structure Basics/10-Objects and Data Structures Assessment Test-Solution.ipynb" afterPath="$PROJECT_DIR$/00-Python Object and Data Structure Basics/10-Objects and Data Structures Assessment Test-Solution.ipynb" />
-      <change beforePath="$PROJECT_DIR$/02-Python Statements/03-for Loops.ipynb" afterPath="$PROJECT_DIR$/02-Python Statements/03-for Loops.ipynb" />
-      <change beforePath="$PROJECT_DIR$/02-Python Statements/04-while Loops.ipynb" afterPath="$PROJECT_DIR$/02-Python Statements/04-while Loops.ipynb" />
-      <change beforePath="$PROJECT_DIR$/02-Python Statements/07-Statements Assessment Test.ipynb" afterPath="$PROJECT_DIR$/02-Python Statements/07-Statements Assessment Test.ipynb" />
-      <change beforePath="$PROJECT_DIR$/02-Python Statements/08-Statements Assessment Test - Solutions.ipynb" afterPath="$PROJECT_DIR$/02-Python Statements/08-Statements Assessment Test - Solutions.ipynb" />
-      <change beforePath="$PROJECT_DIR$/03-Methods and Functions/03-Function Practice Exercises.ipynb" afterPath="$PROJECT_DIR$/03-Methods and Functions/03-Function Practice Exercises.ipynb" />
-      <change beforePath="$PROJECT_DIR$/03-Methods and Functions/04-Function Practice Exercises - Solutions.ipynb" afterPath="$PROJECT_DIR$/03-Methods and Functions/04-Function Practice Exercises - Solutions.ipynb" />
-      <change beforePath="$PROJECT_DIR$/03-Methods and Functions/08-Functions and Methods Homework.ipynb" afterPath="$PROJECT_DIR$/03-Methods and Functions/08-Functions and Methods Homework.ipynb" />
-      <change beforePath="$PROJECT_DIR$/04-Milestone Project - 1/.ipynb_checkpoints/01-Milestone Project 1 - Assignment-checkpoint.ipynb" afterPath="$PROJECT_DIR$/04-Milestone Project - 1/.ipynb_checkpoints/01-Milestone Project 1 - Assignment-checkpoint.ipynb" />
-      <change beforePath="$PROJECT_DIR$/04-Milestone Project - 1/.ipynb_checkpoints/02-Milestone Project 1 - Walkthrough Steps Workbook-checkpoint.ipynb" afterPath="$PROJECT_DIR$/04-Milestone Project - 1/.ipynb_checkpoints/02-Milestone Project 1 - Walkthrough Steps Workbook-checkpoint.ipynb" />
-      <change beforePath="$PROJECT_DIR$/04-Milestone Project - 1/01-Milestone Project 1 - Assignment.ipynb" afterPath="$PROJECT_DIR$/04-Milestone Project - 1/01-Milestone Project 1 - Assignment.ipynb" />
-      <change beforePath="$PROJECT_DIR$/04-Milestone Project - 1/02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb" afterPath="$PROJECT_DIR$/04-Milestone Project - 1/02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb" />
-    </list>
+    <list default="true" id="56bea8bb-faa9-4462-8d7d-86a0847e0f5a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
