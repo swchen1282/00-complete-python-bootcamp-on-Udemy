@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56bea8bb-faa9-4462-8d7d-86a0847e0f5a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" afterPath="$PROJECT_DIR$/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" />
+      <change beforePath="$PROJECT_DIR$/00-Python Object and Data Structure Basics/10-Objects and Data Structures Assessment Test-Solution.ipynb" afterPath="$PROJECT_DIR$/00-Python Object and Data Structure Basics/10-Objects and Data Structures Assessment Test-Solution.ipynb" />
+      <change beforePath="$PROJECT_DIR$/02-Python Statements/03-for Loops.ipynb" afterPath="$PROJECT_DIR$/02-Python Statements/03-for Loops.ipynb" />
+      <change beforePath="$PROJECT_DIR$/02-Python Statements/04-while Loops.ipynb" afterPath="$PROJECT_DIR$/02-Python Statements/04-while Loops.ipynb" />
+      <change beforePath="$PROJECT_DIR$/02-Python Statements/07-Statements Assessment Test.ipynb" afterPath="$PROJECT_DIR$/02-Python Statements/07-Statements Assessment Test.ipynb" />
+      <change beforePath="$PROJECT_DIR$/02-Python Statements/08-Statements Assessment Test - Solutions.ipynb" afterPath="$PROJECT_DIR$/02-Python Statements/08-Statements Assessment Test - Solutions.ipynb" />
+      <change beforePath="$PROJECT_DIR$/03-Methods and Functions/03-Function Practice Exercises.ipynb" afterPath="$PROJECT_DIR$/03-Methods and Functions/03-Function Practice Exercises.ipynb" />
+      <change beforePath="$PROJECT_DIR$/03-Methods and Functions/04-Function Practice Exercises - Solutions.ipynb" afterPath="$PROJECT_DIR$/03-Methods and Functions/04-Function Practice Exercises - Solutions.ipynb" />
+      <change beforePath="$PROJECT_DIR$/03-Methods and Functions/08-Functions and Methods Homework.ipynb" afterPath="$PROJECT_DIR$/03-Methods and Functions/08-Functions and Methods Homework.ipynb" />
+      <change beforePath="$PROJECT_DIR$/04-Milestone Project - 1/.ipynb_checkpoints/01-Milestone Project 1 - Assignment-checkpoint.ipynb" afterPath="$PROJECT_DIR$/04-Milestone Project - 1/.ipynb_checkpoints/01-Milestone Project 1 - Assignment-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/04-Milestone Project - 1/.ipynb_checkpoints/02-Milestone Project 1 - Walkthrough Steps Workbook-checkpoint.ipynb" afterPath="$PROJECT_DIR$/04-Milestone Project - 1/.ipynb_checkpoints/02-Milestone Project 1 - Walkthrough Steps Workbook-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/04-Milestone Project - 1/01-Milestone Project 1 - Assignment.ipynb" afterPath="$PROJECT_DIR$/04-Milestone Project - 1/01-Milestone Project 1 - Assignment.ipynb" />
+      <change beforePath="$PROJECT_DIR$/04-Milestone Project - 1/02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb" afterPath="$PROJECT_DIR$/04-Milestone Project - 1/02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="220" />
+    <option name="y" value="69" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Complete-Python-3-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Complete-Python-3-Bootcamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../11python/01Learning" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\sw\99work\10-github\Complete-Python-3-Bootcamp\00-Python Object and Data Structure Basics" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Complete-Python-3-Bootcamp" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Complete-Python-3-Bootcamp" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56bea8bb-faa9-4462-8d7d-86a0847e0f5a" name="Default" comment="" />
+      <created>1522313739978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522313739978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1162" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1779661" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962853" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/00-Python Object and Data Structure Basics/10-Objects and Data Structures Assessment Test-Solution.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-Python Object and Data Structure Basics/10-Objects and Data_Soultion_SW" />
+    <entry file="file://$PROJECT_DIR$/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test_SW.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
