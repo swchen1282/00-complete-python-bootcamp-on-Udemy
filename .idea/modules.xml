@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Complete-Python-3-Bootcamp.iml" filepath="$PROJECT_DIR$/.idea/Complete-Python-3-Bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Notebooks/.idea/Notebooks.iml" filepath="$PROJECT_DIR$/../Notebooks/.idea/Notebooks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../aprp-dev/.idea/aprp-dev.iml" filepath="$PROJECT_DIR$/../aprp-dev/.idea/aprp-dev.iml" />
     </modules>
   </component>
 </project>
